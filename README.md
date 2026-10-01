@@ -1,22 +1,11 @@
-# ELOS — Landing Page
+# ELOS Movement — Landing Page
 
-Landing page estática, mobile-first, focada em levar visitantes para o Instagram.
+Refação baseada no manual de marca fornecido.
 
-## Arquivos
-- `index.html` — estrutura e copy
-- `styles.css` — identidade visual/responsividade
-- `script.js` — animações leves de entrada
+- Cores: Laranja #FF7A00, Verde escuro #2E3A2B, Branco #FFFFFF, Cinza #4A4A4A.
+- Tipografia: Montserrat + Inter.
+- Assinatura: “Mais que treino, um propósito.”
+- Instagram: @elos.movement
+- Endereço: R. Paes Leme, 1401 — Londrina/PR.
 
-## Antes de publicar
-Instagram configurado: `@elos.movement` / `https://www.instagram.com/elos.movement/`
-- `FOTO DO STUDIO` e `FOTO DO TREINO` devem ser substituídos por fotos reais
-- Se necessário, adicione endereço, WhatsApp e horários no rodapé.
-
-## Direção visual
-- Fundo: #2E2F1F
-- Texto: #F5F3EA
-- Destaque: #EC7A1E
-- Tipos: Manrope + DM Sans
-- Estética: premium, minimalista, fitness studio
-
-Pode ser hospedado em Vercel, Netlify, Cloudflare Pages ou GitHub Pages.
+Antes de publicar, substitua `55SEU_NUMERO` no `index.html` pelo WhatsApp real do studio, em formato internacional.
